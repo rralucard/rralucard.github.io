@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[签证]]></title>
+    <url>%2F2019%2F08%2F17%2F%E7%AD%BE%E8%AF%81%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2018%2F06%2F24%2Ftest%2F</url>
+    <content type="text"><![CDATA[开通Test 1.1 我是主标题1 1.2 我是主标题2 开通Test1.1 我是主标题1加粗字体 斜体 1$ Hello World 1.2 我是主标题21$ Finish Test 水果 价格 数量 香蕉 $1 5 苹果 $1 6 草莓 $1 7]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
+      </tags>
+  </entry>
+</search>
