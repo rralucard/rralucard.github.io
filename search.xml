@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>高度专门职签证申请材料</title>
+    <url>/2019/08/17/%E7%AD%BE%E8%AF%81/</url>
+    <content><![CDATA[<p> <img src="https://i.loli.net/2019/08/17/Xlwnq4f97WRGQE3.jpg" alt="QQ图片20180217122500.jpg"></p>
+]]></content>
+      <categories>
+        <category>日本生活</category>
+      </categories>
+      <tags>
+        <tag>签证申请</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>通过使用karate进行API自动测试</title>
     <url>/2022/06/27/karate/</url>
     <content><![CDATA[<p>#Karate是做什么的？<br><a href="https://www.karatelabs.io/open-source">Karate</a>是一个综合工具，支持广泛的测试自动化作业，包括API测试、GUI测试和性能测试等。</p>
@@ -15,10 +27,10 @@
 <li><a href="https://github.com/karatelabs/karate/releases">karate-x.x.x.zip</a></li>
 </ul>
 <p>安装好JDK后，可通过如下命令进行版本确认。</p>
-<figure class="highlight mipsasm"><table><tr><td class="code"><pre><code class="hljs mipsasm"><span class="hljs-keyword">java </span>-version<br><span class="hljs-keyword">java </span>version <span class="hljs-string">&quot;1.8.0_172&quot;</span><br><span class="hljs-keyword">Java(TM) </span>SE Runtime Environment (<span class="hljs-keyword">build </span><span class="hljs-number">1</span>.<span class="hljs-number">8</span>.<span class="hljs-number">0</span>_172-<span class="hljs-keyword">b11)</span><br></code></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">java -version</span><br><span class="line">java version &quot;1.8.0_172&quot;</span><br><span class="line">Java(TM) SE Runtime Environment (build 1.8.0_172-b11)</span><br></pre></td></tr></table></figure>
 <p>如果无法执行java命令，请确认Java Path是否设置正确，可参考的文章有很多这里就不展开介绍了。</p>
 <p>#执行官方DEMO<br>现在你已经准备好了，让我们尝试执行执行官方DEMO吧!<br>如果你解压缩karate-x.x.x.zip并在VSCode中打开它，你会看到以下项目结构。</p>
-<figure class="highlight stylus"><table><tr><td class="code"><pre><code class="hljs stylus">└─karate-<span class="hljs-number">1.2</span>.<span class="hljs-number">1</span><span class="hljs-selector-class">.RC1</span><br>    └─<span class="hljs-attribute">src</span><br>        └─demo <br>            ├─api <br>            ├─mock<br>            ├─robot<br>            └─web<br></code></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">└─karate-1.2.1.RC1</span><br><span class="line">    └─src</span><br><span class="line">        └─demo </span><br><span class="line">            ├─api </span><br><span class="line">            ├─mock</span><br><span class="line">            ├─robot</span><br><span class="line">            └─web</span><br></pre></td></tr></table></figure>
 
 <h3 id="这是一个三级标题"><a href="#这是一个三级标题" class="headerlink" title="这是一个三级标题"></a>这是一个三级标题</h3><h1 id="Karate是什么"><a href="#Karate是什么" class="headerlink" title="Karate是什么"></a>Karate是什么</h1><hr>
 <h2 id="123"><a href="#123" class="headerlink" title="123"></a>123</h2><p><font color="red">karate简介</font></p>
@@ -43,9 +55,9 @@
 <h1 id="开通-Test"><a href="#开通-Test" class="headerlink" title="开通 Test"></a>开通 Test</h1><h2 id="1-1-我是主标题-1"><a href="#1-1-我是主标题-1" class="headerlink" title="1.1 我是主标题 1"></a>1.1 我是主标题 1</h2><p><strong>加粗字体</strong></p>
 <p><em>斜体</em></p>
 <p><img src="http://pazhnsxnv.bkt.clouddn.com/timg111.jpg" alt="timg111"></p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$  Hello World<br></code></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$  Hello World</span><br></pre></td></tr></table></figure>
 
-<h2 id="1-2-我是主标题-2"><a href="#1-2-我是主标题-2" class="headerlink" title="1.2 我是主标题 2"></a>1.2 我是主标题 2</h2><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ Finish Test<br></code></pre></td></tr></table></figure>
+<h2 id="1-2-我是主标题-2"><a href="#1-2-我是主标题-2" class="headerlink" title="1.2 我是主标题 2"></a>1.2 我是主标题 2</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ Finish Test</span><br></pre></td></tr></table></figure>
 
 <table>
 <thead>
@@ -77,18 +89,6 @@
       </categories>
       <tags>
         <tag>Test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>高度专门职签证申请材料</title>
-    <url>/2019/08/17/%E7%AD%BE%E8%AF%81/</url>
-    <content><![CDATA[<p> <img src="https://i.loli.net/2019/08/17/Xlwnq4f97WRGQE3.jpg" alt="QQ图片20180217122500.jpg"></p>
-]]></content>
-      <categories>
-        <category>日本生活</category>
-      </categories>
-      <tags>
-        <tag>签证申请</tag>
       </tags>
   </entry>
 </search>
