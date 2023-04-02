@@ -3,23 +3,23 @@
 
 
     <sitemap>
-        <loc>https://rralucard.github.io/post-sitemap.xml</loc>
-        <lastmod>2022-06-27T10:58:26.040Z</lastmod>
+        <loc>http://example.com/post-sitemap.xml</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://rralucard.github.io/page-sitemap.xml</loc>
+        <loc>http://example.com/page-sitemap.xml</loc>
         <lastmod>2018-06-26T14:13:53.744Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://rralucard.github.io/category-sitemap.xml</loc>
-        <lastmod>2022-06-27T10:58:26.040Z</lastmod>
+        <loc>http://example.com/category-sitemap.xml</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>https://rralucard.github.io/tag-sitemap.xml</loc>
-        <lastmod>2022-06-27T10:58:26.040Z</lastmod>
+        <loc>http://example.com/tag-sitemap.xml</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
     </sitemap>
 
 </sitemapindex>

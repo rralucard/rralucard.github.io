@@ -2,28 +2,28 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://rralucard.github.io/</loc>
+        <loc>http://example.com/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>https://rralucard.github.io/categories/%25E6%258A%2580%25E6%259C%25AF/</loc>
+        <loc>http://example.com/categories/Testing/</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://example.com/categories/%25E6%258A%2580%25E6%259C%25AF/</loc>
         <lastmod>2022-06-27T10:58:26.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://rralucard.github.io/categories/Testing/</loc>
-        <lastmod>2022-06-27T02:17:19.582Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://rralucard.github.io/categories/%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%259F%25E6%25B4%25BB/</loc>
+        <loc>http://example.com/categories/%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%259F%25E6%25B4%25BB/</loc>
         <lastmod>2019-08-17T14:53:33.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

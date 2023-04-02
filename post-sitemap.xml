@@ -2,14 +2,22 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://rralucard.github.io/</loc>
+        <loc>http://example.com/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>https://rralucard.github.io/2022/06/27/karate/</loc>
+        <loc>http://example.com/2018/06/24/test/</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://example.com/2022/06/27/karate/</loc>
         <lastmod>2022-06-27T10:58:26.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,15 +25,7 @@
     </url>
 
     <url>
-        <loc>https://rralucard.github.io/2018/06/24/test/</loc>
-        <lastmod>2022-06-27T02:17:19.582Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://rralucard.github.io/2019/08/17/%E7%AD%BE%E8%AF%81/</loc>
+        <loc>http://example.com/2019/08/17/%E7%AD%BE%E8%AF%81/</loc>
         <lastmod>2019-08-17T14:53:33.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

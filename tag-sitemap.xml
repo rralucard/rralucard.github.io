@@ -3,21 +3,21 @@
 
 
     <url>
-        <loc>https://rralucard.github.io/tags/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
+        <loc>http://example.com/tags/Test/</loc>
+        <lastmod>2023-04-02T10:53:01.207Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://example.com/tags/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
         <lastmod>2022-06-27T10:58:26.040Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://rralucard.github.io/tags/Test/</loc>
-        <lastmod>2022-06-27T02:17:19.582Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://rralucard.github.io/tags/%E7%AD%BE%E8%AF%81%E7%94%B3%E8%AF%B7/</loc>
+        <loc>http://example.com/tags/%E7%AD%BE%E8%AF%81%E7%94%B3%E8%AF%B7/</loc>
         <lastmod>2019-08-17T14:53:33.296Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
