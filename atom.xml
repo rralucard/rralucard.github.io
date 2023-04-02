@@ -6,7 +6,7 @@
   <link href="https://rralucard.github.io/atom.xml" rel="self"/>
   
   <link href="https://rralucard.github.io/"/>
-  <updated>2019-08-17T14:53:33.296Z</updated>
+  <updated>2022-06-27T10:58:26.040Z</updated>
   <id>https://rralucard.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>通过使用karate进行API自动测试</title>
+    <link href="https://rralucard.github.io/2022/06/27/karate/"/>
+    <id>https://rralucard.github.io/2022/06/27/karate/</id>
+    <published>2022-06-27T10:47:01.000Z</published>
+    <updated>2022-06-27T10:58:26.040Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Karate是做什么的？<br><a href="https://www.karatelabs.io/open-source">Karate</a>是一个综合工具，支持广泛的测试自动化作业，包括API测试、GUI测试和性能测试等。</p><p>相比于其他自动化测试框架，功能的丰富性是Karate的最大亮点。同时解决了许多其他框架的痛点，让人眼前一亮。</p><p>本篇聚焦于使用Karate进行API测试的入门介绍。<br>那么就让我们开始学习如何使用karate进行API自动测试吧。</p><p>#如何引入Karate？</p><p>为了能够快速使用Karate进行API测试，本文推荐下载并安装下记内容。<br>本次将使用官方提供的可快速执行测试的雏形工程karate-x.x.x.zip进行演示。</p><ul><li><a href="https://www.oracle.com/java/technologies/downloads/">JDK</a></li><li><a href="https://code.visualstudio.com/download">VSCode</a></li><li><a href="https://marketplace.visualstudio.com/items?itemName=kirkslota.karate-runner">VSCode插件 Karate Runner</a></li><li><a href="https://github.com/karatelabs/karate/releases">karate-x.x.x.zip</a></li></ul><p>安装好JDK后，可通过如下命令进行版本确认。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">java -version</span><br><span class="line">java version &quot;1.8.0_172&quot;</span><br><span class="line">Java(TM) SE Runtime Environment (build 1.8.0_172-b11)</span><br></pre></td></tr></table></figure><p>如果无法执行java命令，请确认Java Path是否设置正确，可参考的文章有很多这里就不展开介绍了。</p><p>#执行官方DEMO<br>现在你已经准备好了，让我们尝试执行执行官方DEMO吧!<br>如果你解压缩karate-x.x.x.zip并在VSCode中打开它，你会看到以下项目结构。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">└─karate-1.2.1.RC1</span><br><span class="line">    └─src</span><br><span class="line">        └─demo </span><br><span class="line">            ├─api </span><br><span class="line">            ├─mock</span><br><span class="line">            ├─robot</span><br><span class="line">            └─web</span><br></pre></td></tr></table></figure><h3 id="这是一个三级标题"><a href="#这是一个三级标题" class="headerlink" title="这是一个三级标题"></a>这是一个三级标题</h3><h1 id="Karate是什么"><a href="#Karate是什么" class="headerlink" title="Karate是什么"></a>Karate是什么</h1><hr><h2 id="123"><a href="#123" class="headerlink" title="123"></a>123</h2><p><font color="red">karate简介</font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#Karate是做什么的？&lt;br&gt;&lt;a href=&quot;https://www.karatelabs.io/open-source&quot;&gt;Karate&lt;/a&gt;是一个综合工具，支持广泛的测试自动化作业，包括API测试、GUI测试和性能测试等。&lt;/p&gt;
+&lt;p&gt;相比于其他自动化测试框架，</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://rralucard.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="测试自动化" scheme="https://rralucard.github.io/tags/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>高度专门职签证申请材料</title>
